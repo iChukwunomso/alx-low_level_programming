@@ -2,7 +2,6 @@
 
 /**
  * flip_bits - counts the number of bits to change
- * 
  * @n: first number
  *
  * @m: second number
